@@ -1,0 +1,23 @@
+{
+  "name": "dev.terrorized.ediblecarrot",
+  "displayName": "Edible Carrot System",
+  "version": "1.0.0",
+  "description": "Edible carrot avatar accessory for VRChat",
+  "url": "https://github.com/iTerrorized/dev.terrorized.ediblecarrot",
+  "unity": "2022.3",
+  "vpmDependencies": {
+    "com.vrchat.avatars": "^3.10.0",
+    "dev.terrorized.drm": "^1.0.0"
+  },
+  "keywords": [
+    "Terrorized",
+    "VRChat",
+    "Carrot",
+    "Avatar"
+  ],
+  "author": {
+    "name": "Terrorized",
+    "email": "xterrorized@outlook.com",
+    "url": "https://terrorized.dev"
+  }
+}
